@@ -11,7 +11,7 @@ Music Player Tkinter Python Script
 - Update paths if necessary
 ```
 
-## Iimprovement Notes for future
+## Improvement Notes for future
 
 ```
 - Make the selector loop
