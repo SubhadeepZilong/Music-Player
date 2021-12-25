@@ -11,6 +11,15 @@ Music Player Tkinter Python Script
 - Update paths if necessary
 ```
 
+## Iimprovement Notes for future
+
+```
+- Make the selector loop
+- Make Play button disappear/replace with Pause when playing and vice verse
+- AutoPlay
+- Repeat
+```
+
 ##
 
 <p align="center">
