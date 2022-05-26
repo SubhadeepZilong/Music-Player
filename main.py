@@ -27,11 +27,11 @@ pattern = "*.mp3"
 mixer.init()
 
 # Create the buttons
-prev_img = tk.PhotoImage(file = os.getcwd() + r"\assets\prev_img.png")
-pause_img = tk.PhotoImage(file = os.getcwd() + r"\assets\pause_img.png")
-next_img = tk.PhotoImage(file = os.getcwd() + r"\assets\next_img.png")
-play_img = tk.PhotoImage(file = os.getcwd() + r"\assets\play_img.png")
-stop_img = tk.PhotoImage(file = os.getcwd() + r"\assets\stop_img.png")
+prev_img = tk.PhotoImage(file = os.getcwd() + r"\assets\design3\prev_img.png")
+pause_img = tk.PhotoImage(file = os.getcwd() + r"\assets\design3\pause_img.png")
+next_img = tk.PhotoImage(file = os.getcwd() + r"\assets\design3\next_img.png")
+play_img = tk.PhotoImage(file = os.getcwd() + r"\assets\design3\play_img.png")
+stop_img = tk.PhotoImage(file = os.getcwd() + r"\assets\design3\stop_img.png")
 
 
 # ------------ Methods -------------
